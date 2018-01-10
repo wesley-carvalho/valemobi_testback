@@ -1,0 +1,8 @@
+create table "ROOT".tb_customer_account
+(
+	id_customer INTEGER GENERATED ALWAYS AS IDENTITY(START WITH 100, INCREMENT BY 100) not null primary key,
+	cpf_cnpj VARCHAR(15) not null,	
+	nm_customer VARCHAR(255) not null,
+	is_active BOOLEAN default true not null,
+	vl_total DOUBLE not null	
+);

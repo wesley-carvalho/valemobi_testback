@@ -1,0 +1,36 @@
+Wed Jan 10 15:32:53 BRST 2018 : Apache Derby Servidor de Rede - 10.10.2.0 - (1582446) iniciado e pronto para aceitar conexões na porta 1527 em {3}
+----------------------------------------------------------------
+Wed Jan 10 15:32:54 BRST 2018:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância a816c00e-0160-e121-ae3f-000014f5f2a4
+no diretório de banco de dados C:\Users\wesle\Desktop\Valemobi\TesteBack\TestBack\database\TestBack 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_152-b16
+user.dir=C:\Program Files\glassfish-4.1.1\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\wesle\Desktop\Valemobi\TesteBack\TestBack\database
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jan 10 15:32:55 BRST 2018:
+Encerrando a instância a816c00e-0160-e121-ae3f-000014f5f2a4
+Wed Jan 10 15:32:55 BRST 2018 Thread[DRDAConnThread_3,5,main] (DATABASE = TestBack), (DRDAID = {2}), Banco de dados 'TestBack' fechado.
+----------------------------------------------------------------
+Wed Jan 10 15:33:38 BRST 2018:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instância 560740aa-0160-e121-ae3f-000014f5f2a4
+no diretório de banco de dados C:\Users\wesle\Desktop\Valemobi\TesteBack\TestBack\database\TestBack 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_152-b16
+user.dir=C:\Program Files\glassfish-4.1.1\javadb
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\wesle\Desktop\Valemobi\TesteBack\TestBack\database
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jan 10 16:19:44 BRST 2018: Shutting down Derby engine
+----------------------------------------------------------------
+Wed Jan 10 16:19:44 BRST 2018:
+Encerrando a instância 560740aa-0160-e121-ae3f-000014f5f2a4
